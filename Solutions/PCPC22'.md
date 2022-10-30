@@ -1,4 +1,4 @@
-# PCPC 22' problems solutions:(Written by: [Suhaib Sawalha](https://www.facebook.com/suhaib.sawalha.54))
+# PCPC 22' problems solutions: (Written by: [Suhaib Sawalha](https://codeforces.com/profile/Satoru))
 
 A: https://ideone.com/3DQA7x
 
