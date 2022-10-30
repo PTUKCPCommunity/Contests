@@ -1,4 +1,4 @@
-## Written By: [Ayman Attili](https://codeforces.com/profile/Ayman_Attili26) & [Hashem Ghanem](https://codeforces.com/profile/HashemGhanim)
+## Written By: [Ayman Attili](https://codeforces.com/profile/Ayman_Attili26) & [Hashem Ghanim](https://codeforces.com/profile/HashemGhanim)
 
 1. https://ideone.com/lV58Wk
 2. https://ideone.com/ZVngpB
