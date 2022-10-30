@@ -3,12 +3,12 @@
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-## 🔹[تصفيات pcpc 2022](https://drive.google.com/file/d/1tx4K4ydlPNm9qGrY8PvjIMm8jh8P6bPK/view?fbclid=IwAR3PYlpTUTGP6plLnzNhBKZRWIul8uXF-zgJAn_s7KoNnoR3PnbLI1TwjXU)
+## 🔹[تصفيات PCPC 2022](https://drive.google.com/file/d/1tx4K4ydlPNm9qGrY8PvjIMm8jh8P6bPK/view?fbclid=IwAR3PYlpTUTGP6plLnzNhBKZRWIul8uXF-zgJAn_s7KoNnoR3PnbLI1TwjXU)
 
 ## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/PCPC22'.md)
 
 _______________________________________________________________________________________________________________________________________________________________________
-## 🔹[تصفيات الجامعة لمسابقة pcpc 2022](https://codeforces.com/contests/400626)
+## 🔹[تصفيات الجامعة لمسابقة PCPC 2022](https://codeforces.com/contests/400626)
 
 ## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/ptukpcpc22'.md)
 _______________________________________________________________________________________________________________________________________________________________________
