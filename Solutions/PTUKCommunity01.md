@@ -1,4 +1,4 @@
-## Written by: [Hashem Ganem](https://codeforces.com/profile/HashemGhanim)
+## Written by: [Hashem Ganim](https://codeforces.com/profile/HashemGhanim)
 
 1. https://ideone.com/LWiuTi
 2. https://ideone.com/VvcuWO
