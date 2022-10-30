@@ -92,4 +92,4 @@ ________________________________________________________________________________
 
 ## 🔹 [مسابقة تدريبية ptukcommunity05](https://www.hackerrank.com/ptukcommunity05)
 
-## [الحلول]()
+## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/PTUKCommunity05.md)
