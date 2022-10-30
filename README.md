@@ -3,7 +3,7 @@
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-## 🔹[تصفيات pcpc 2022](https://m.facebook.com/story.php?story_fbid=124569057044623&id=100084745886710)
+## 🔹[تصفيات pcpc 2022](https://drive.google.com/file/d/1tx4K4ydlPNm9qGrY8PvjIMm8jh8P6bPK/view?fbclid=IwAR3PYlpTUTGP6plLnzNhBKZRWIul8uXF-zgJAn_s7KoNnoR3PnbLI1TwjXU)
 
 ## [الحلول](https://www.facebook.com/groups/palestine.cp/permalink/1280820716065545/)
 
