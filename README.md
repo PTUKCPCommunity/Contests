@@ -28,7 +28,7 @@ https://www.hackerrank.com/contests/newcomers2020/challenges/filters/page:1
 
 🔹مسابقة تصفيات خضوري
 
-vjudge.net/contest/485684
+https://www.vjudge.net/contest/485684
 
 
 🔹 مسابقة تدريبية 2019
