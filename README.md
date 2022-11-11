@@ -72,13 +72,13 @@ ________________________________________________________________________________
 
 ## 🔹 [مسابقة تدريبية ptuk_div4#01](https://www.hackerrank.com/ptuk-div4-1)
 
-## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/ptuk_div4#01.md)
+## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/ptuk_div4%2301.md)
 
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## 🔹 [مسابقة تدريبية ptuk_div4#02](https://www.hackerrank.com/ptuk-div4-2)
 
-## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/ptuk_div4#02.md)
+## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/ptuk_div4%2302.md)
 
 _______________________________________________________________________________________________________________________________________________________________________
 
