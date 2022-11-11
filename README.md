@@ -99,3 +99,8 @@ ________________________________________________________________________________
 ## 🔹 [مسابقة تدريبية ptukcommunity05](https://www.hackerrank.com/ptukcommunity05)
 
 ## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/PTUKCommunity05.md)
+_______________________________________________________________________________________________________________________________________________________________________
+
+## 🔹 [مسابقة تدريبية ptukcommunity06](https://www.hackerrank.com/ptukcommunity06)
+
+## [الحلول](https://github.com/PTUKCPCommunity/Contests/blob/main/Solutions/PTUKCommunity06.md)
